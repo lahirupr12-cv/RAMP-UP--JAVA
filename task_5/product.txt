@@ -1,0 +1,6 @@
+Product         Price          
+Shampoo         $120.00         
+Soap            $80.00          
+Chocolate       $50.50          
+
+Total value: $250.50
